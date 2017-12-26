@@ -1,0 +1,7 @@
+Unhandled exception in thread started by 
+Traceback (most recent call last):
+  File "mouse.pyc", line 1612, in MouseMain
+  File "mouse.pyc", line 1549, in RunFastest
+  File "mouse.pyc", line 1570, in GetCommnad
+  File "mouse.pyc", line 1631, in StopMouse
+NameError: global name 'exit' is not defined
